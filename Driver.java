@@ -4,7 +4,7 @@
  *Programmer(s): Yocelyne Hernandez 	Last Modified:  10 /25 /2018
  *
  *Program Title: Driver
- *Program Description: This program the BankAccount class to create accounts and write or read them from a file
+ *Program Description: This program the BankAccount class to create accounts and write or read them from a file. It uses RAF
  *-------------------------------------------------------------------------------------------------------------------
  *
  *
